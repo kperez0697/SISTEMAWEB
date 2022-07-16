@@ -1,7 +1,7 @@
 <%-- 
     Document   : CategorizacionProducto
     Created on : 5 jun. 2022, 13:02:49
-    Author     : alex
+    Author     :  Salazar Joaquin, Keny Alex-Leon Tito, Jherson Estefano-Perez Otero, Kevin Martin,Condori Medina, Marcelo 
 --%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
